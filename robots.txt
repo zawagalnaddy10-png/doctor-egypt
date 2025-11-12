@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zawagalnaddy10-png.github.io/doctor-egypt/sitemap.xml

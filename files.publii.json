@@ -1,0 +1,332 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "d969cde204c68904e76541f96045b7db"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/adam",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/adam/index.html",
+        "type": "file",
+        "md5": "5c143188f1f18a7b54a343ea51c0d383"
+    },
+    {
+        "path": "dktwr-aalj-llm-fy-msr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dktwr-aalj-llm-fy-msr/index.html",
+        "type": "file",
+        "md5": "394f3accc71b8f38a6d147041758e1e6"
+    },
+    {
+        "path": "fdl-dktwr-aalj-llm-fy-msr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fdl-dktwr-aalj-llm-fy-msr/index.html",
+        "type": "file",
+        "md5": "2e6e9dbf460460f56ccc036951f48e48"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "0c96cf2addc35777dccf4573ff297d0b"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "052f329975d6bbeee533d0eb621af4eb"
+    },
+    {
+        "path": "hmy-ltrdd-lhrry-fy-aalj-llm",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hmy-ltrdd-lhrry-fy-aalj-llm/index.html",
+        "type": "file",
+        "md5": "7f8c156f9b8ebf87ed8c7c23f35c66f8"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "28bfb5605413dea7f40116f9db5b86b3"
+    },
+    {
+        "path": "m-hw-ltrdd-lhrry",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/m-hw-ltrdd-lhrry/index.html",
+        "type": "file",
+        "md5": "8ae9c8283b03d5270733f0a2de527541"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/gallery/fDl-dktwr-aalj-llm-fy-mSr-thumbnail.jpeg",
+        "type": "file",
+        "md5": "be50b12d5007db3dca07627594364f85"
+    },
+    {
+        "path": "/media/posts/1/gallery/fDl-dktwr-aalj-llm-fy-mSr.jpeg",
+        "type": "file",
+        "md5": "c686dce42580785be6de74122c281c0f"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/gallery/fDl-dktwr-aalj-llm-fy-mSr-thumbnail.jpeg",
+        "type": "file",
+        "md5": "be50b12d5007db3dca07627594364f85"
+    },
+    {
+        "path": "/media/posts/2/gallery/fDl-dktwr-aalj-llm-fy-mSr.jpeg",
+        "type": "file",
+        "md5": "c686dce42580785be6de74122c281c0f"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/3/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/gallery/kl-m-tHtj-maarfth-aan-aalj-lGDrwf-lqTny-thumbnail.jpeg",
+        "type": "file",
+        "md5": "dd9fe9a03a2c5a662e3804d76efa24dc"
+    },
+    {
+        "path": "/media/posts/3/gallery/kl-m-tHtj-maarfth-aan-aalj-lGDrwf-lqTny.jpeg",
+        "type": "file",
+        "md5": "bf37be0ae1ca35223db9974c93ff88ef"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/gallery/ltrdd-lHrry-thumbnail.jpg",
+        "type": "file",
+        "md5": "fcdefe706c8dcf0b5782739583e3fe65"
+    },
+    {
+        "path": "/media/posts/4/gallery/ltrdd-lHrry.jpg",
+        "type": "file",
+        "md5": "f3ec52fcc3b1c25804dd1b32dfaced3f"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/5/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/gallery/images-9-thumbnail.jpeg",
+        "type": "file",
+        "md5": "de7076a03d18e5c57c20d424c0f8495f"
+    },
+    {
+        "path": "/media/posts/5/gallery/images-9.jpeg",
+        "type": "file",
+        "md5": "0b8dc4524610b8eed8bac52b895bc30f"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/images-9.jpeg",
+        "type": "file",
+        "md5": "0b8dc4524610b8eed8bac52b895bc30f"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/images-9-2xl.jpeg",
+        "type": "file",
+        "md5": "de7076a03d18e5c57c20d424c0f8495f"
+    },
+    {
+        "path": "/media/website/responsive/images-9-lg.jpeg",
+        "type": "file",
+        "md5": "de7076a03d18e5c57c20d424c0f8495f"
+    },
+    {
+        "path": "/media/website/responsive/images-9-md.jpeg",
+        "type": "file",
+        "md5": "de7076a03d18e5c57c20d424c0f8495f"
+    },
+    {
+        "path": "/media/website/responsive/images-9-sm.jpeg",
+        "type": "file",
+        "md5": "de7076a03d18e5c57c20d424c0f8495f"
+    },
+    {
+        "path": "/media/website/responsive/images-9-xl.jpeg",
+        "type": "file",
+        "md5": "de7076a03d18e5c57c20d424c0f8495f"
+    },
+    {
+        "path": "/media/website/responsive/images-9-xs.jpeg",
+        "type": "file",
+        "md5": "de7076a03d18e5c57c20d424c0f8495f"
+    },
+    {
+        "path": "mn-hw-fdl-dktwr-aalj-llm-fy-msr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mn-hw-fdl-dktwr-aalj-llm-fy-msr/index.html",
+        "type": "file",
+        "md5": "da14fb4529f801811df445f8e1e8c10c"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "0be83e3fd2882bef1769bc260dc68c90"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "0ff3e317bf2be732ae402897249aaf17"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "a255658cf957977c7bd96a3a52e57243"
+    }
+]
